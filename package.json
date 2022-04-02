@@ -1,0 +1,22 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node Backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binita-subedi/Chat-Application.git"
+  },
+  "author": "Binita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Binita-subedi/Chat-Application/issues"
+  },
+  "homepage": "https://github.com/Binita-subedi/Chat-Application#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
